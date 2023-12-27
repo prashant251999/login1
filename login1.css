@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(238, 236, 236);
+}
+#cont{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 20px;
+    padding-right: 50px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+h5{
+    color: orange;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+#head > p{
+    text-align: center;
+}
+*{
+    font-family: cera-round-pro, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+.inputhead{
+    text-align: left;
+    margin-top: 40px;
+
+}
+.input{
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px 5px;
+    color: gray;
+    font-size: 15px;
+}
+/* #check{
+    
+} */
+#remember{
+    display: flex;
+    width: 100%;
+}
+a{
+    margin: 15px 0px;
+    margin-left: 29%;
+    text-decoration-style: dotted;
+}
+button{
+    width: 100%;
+    padding: 15px 0px;
+    background-color: rgb(255, 213, 0);
+    border-radius: 10px;
+    box-shadow: 50px;
+}
+#button{
+    background-color: black;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+}
+button:hover{
+    background-color: orange;
+    
+}
+h2{
+    text-align: center;
+    word-spacing: 2px;
+}
+#head > p{
+    font-size: 15px;
+    color: rgb(106, 105, 105);
+}
